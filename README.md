@@ -1,7 +1,7 @@
 ###### Django Installation
 pip install django
 
-###### Project Creation
+## Project Creation
 django-admin startproject <project name> .
 
 ###### Command to run App on localhost Server 
